@@ -1,0 +1,17 @@
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\bin\Debug\net8.0-windows\DataGirldView.exe
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\bin\Debug\net8.0-windows\DataGirldView.deps.json
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\bin\Debug\net8.0-windows\DataGirldView.runtimeconfig.json
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\bin\Debug\net8.0-windows\DataGirldView.dll
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\bin\Debug\net8.0-windows\DataGirldView.pdb
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.frmDGV.resources
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.Form2.resources
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.csproj.GenerateResource.cache
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.AssemblyInfoInputs.cache
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.AssemblyInfo.cs
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.csproj.CoreCompileInputs.cache
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.dll
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\refint\DataGirldView.dll
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.pdb
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\DataGirldView.genruntimeconfig.cache
+C:\Users\KyMinh\source\repos\WinFormsApp1\DataGirldView\obj\Debug\net8.0-windows\ref\DataGirldView.dll
